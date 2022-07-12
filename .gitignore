@@ -1,3 +1,8 @@
 
 .ipynb_checkpoints/practice_notebook.py-checkpoint.ipynb
 .ipynb_checkpoints/practice_notebook-checkpoint.ipynb
+chatenv/
+.idea/FlaskChatApp.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
