@@ -1,6 +1,8 @@
 from flask import Flask, render_template, request, redirect, url_for
+from flask_login import LoginManager
 from flask_socketio import SocketIO, join_room, leave_room
 
+login_manager = LoginManager()
 app = Flask(__name__)
 socketio = SocketIO(app)
 
